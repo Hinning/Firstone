@@ -1,0 +1,8 @@
+
+int test
+
+int main()
+{
+  scanf("%d",&test);
+  printf("You have type %d",test);
+}
